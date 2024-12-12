@@ -1,8 +1,6 @@
 # Eclipse
-Eclipse Is An Open Source Roblox Executer With 84% UNC Which uses Forlorn API
+Eclipse Is An Open Source Roblox Executer With 84% UNC
 
-#  
+#
  
-# Credits
-ForlornWindow46 - Forlorn API, 
-DanMardan - The Whole Executer
+Thanks ForlornWindow46 for making Forlorn API
